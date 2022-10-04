@@ -13,5 +13,5 @@
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/105253015/193739382-162cf4fe-23b4-421b-b03f-2d71bbc1efba.png" width="700" />
+<img src="https://user-images.githubusercontent.com/105253015/193739591-7aecf98f-9b5a-448e-b7bd-fad80abb3e6f.png" width="700" />
 </div>
