@@ -1,7 +1,7 @@
 # game-strore
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/105253015/193911626-8068a239-326a-4b20-bbfe-2c46eac8c841.png" width="700" />
+<img src="https://user-images.githubusercontent.com/105253015/193912047-877163de-b3d2-47d5-aea8-94fc9b70bec6.png" width="700" />
 </div>
 
 <div align="center">
